@@ -1,0 +1,65 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FFFFFFC4",
+        "font" : "System",
+        "color" : "#00000065"
+      },
+      "shortcut" : {
+        "size" : 15,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#000000E5"
+      },
+      "backgroundSelected" : "#016BDEFF",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#000000E5"
+      },
+      "iconPaddingHorizontal" : 12,
+      "roundness" : 12,
+      "paddingVertical" : 8,
+      "iconSize" : 32
+    },
+    "search" : {
+      "backgroundSelected" : "#016BDEFF",
+      "paddingHorizontal" : 8,
+      "spacing" : 8,
+      "text" : {
+        "size" : 28,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#000000FF"
+      },
+      "background" : "#FFFFFF00",
+      "roundness" : 0,
+      "paddingVertical" : 0
+    },
+    "window" : {
+      "color" : "#FBFFFF00",
+      "paddingHorizontal" : 12,
+      "width" : 650,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 0,
+      "roundness" : 10,
+      "paddingVertical" : 8
+    },
+    "credit" : "Josh Angelsberg",
+    "visualEffectMode" : 1,
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#00000065",
+      "thickness" : 8
+    },
+    "name" : "Alfred macOS +"
+  }
+}
